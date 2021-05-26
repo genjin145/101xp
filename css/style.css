@@ -426,6 +426,10 @@ body {
   background-size: cover;
 }
 
+.mount__head {
+  margin-bottom: 607px;
+}
+
 .mount__ratings {
   position: absolute;
   left: 50%;
@@ -452,7 +456,6 @@ body {
 
 .mount__desc {
   margin: 0;
-  margin-top: auto;
   max-width: 1124px;
   width: 100%;
   color: rgb(249, 244, 233);
